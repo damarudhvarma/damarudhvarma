@@ -10,12 +10,12 @@
 <p align="left"> 
 <!--   <a href="https://twitter.com/damarudhvarma" target="blank">
     <img src="https://img.shields.io/twitter/follow/damarudhvarma?logo=twitter&style=for-the-badge" alt="damarudhvarma" /> -->
-  </a> 
+<!--   </a>  -->
 </p>
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://damarudh.teamapartx.com/](https://damarudh.teamapartx.com/)
+- 👨‍💻 All of my projects are available at [damarudhvarma](https://damarudh.teamapartx.com/)
 
 - 💬 Ask me about **JS, MERN, Next.js**
 
@@ -99,5 +99,5 @@
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=damarudhvarma&show_icons=true&locale=en" alt="damarudhvarma" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=damarudhvarma&show_icons=true&locale=en" alt="chakridhar2555" />
 </p>
