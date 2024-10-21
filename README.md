@@ -99,7 +99,8 @@
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=damarudhvarma&show_icons=true&locale=en" alt="chakridhar2555" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=damarudhvarma&show_icons=true&locale=en" alt="damarudhvarma" />
 </p>
-[![An image of @damarudhvarma's Holopin badges](https://holopin.me/damarudhvarma)](https://holopin.io/@damarudhvarma)
+
+
 
