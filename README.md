@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [damarudhvarma](https://damarudh.teamapartx.com/)
+- 👨‍💻 All of my projects are available at [damarudhvarma](https://damarudhvarma.vercel.app/)
 
 - 💬 Ask me about **JS, MERN, Next.js**
 
