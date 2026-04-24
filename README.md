@@ -68,6 +68,6 @@
 </p>
 <br clear="both"/>
 
-
+<h3 align="left">Hacktober Fest badges:</h3>
 
 [![An image of @damarudhvarma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/damarudhvarma)](https://holopin.io/@damarudhvarma)
